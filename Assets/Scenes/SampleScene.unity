@@ -171,7 +171,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -292,7 +292,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -573,7 +573,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -880,7 +880,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1001,7 +1001,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1171,7 +1171,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1292,7 +1292,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1478,7 +1478,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1599,7 +1599,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 18
+  m_Intensity: 5.1
   m_Range: 14.76
   m_SpotAngle: 179
   m_InnerSpotAngle: 125.026215
@@ -1741,6 +1741,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8900578556161651777, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1781,9 +1785,61 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8235355554596556493, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4674386002550831628, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4384905191764769798, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3513705238497181862, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -824786701484945213, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -516098083770646512, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
       propertyPath: m_Name
       value: liminal space Eddie fix part 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302213818936082647, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048686431602748714, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4847425470927329091, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230921644027448142, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6352297656709254760, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9057122457015256081, guid: b8a8b34e105cb9642bfca374fbef8f4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
